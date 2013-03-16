@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<definitions>
+	<map>
+		<collection>http://127.0.0.1/tfs</collection>
+		<sourceLocation>$/path/to/server/files</sourceLocation>
+		<localPath>C:\SRC\EXAMPLE</localPath>
+	</map>
+</definitions>
